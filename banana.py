@@ -3,3 +3,4 @@ b=2
 c=a+b
 e=b-a
 print(c)
+print(a)
